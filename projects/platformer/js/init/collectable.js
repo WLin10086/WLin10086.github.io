@@ -41,7 +41,9 @@
         createCollectable(type.max, 300, 70, 6, 0.7);
         createCollectable(type.steve, 560, 380, 6, 0.7);
         createCollectable(type.kennedi, 850, 600, 6, 0.7);
-        
+        createCollectable(type.kennedi, 500, 290, 6, 0.7);
+        createCollectable(type.steve, 600, 210, 6, 0.7);
+        createCollectable(type.grace, 200, 380, 6, 0.7);
         
         
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
